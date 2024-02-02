@@ -65,7 +65,7 @@ source /scratch/$USER/chipyard/env.sh
 > by running the following:
 >
 > ```
-> echo "source /scratch/$USER/chipyard/env.sh" >> ~/.bashrc
+> echo "source /scratch/$USER/<semester>-chipyard-<username>/env.sh" >> ~/.bashrc
 > ```
 
 ### Common issues
