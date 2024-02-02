@@ -39,7 +39,7 @@ Then, setup your repo. This may take about a very long time (potentially over 30
 source ~/.bashrc
 unset CONFIG_SHELL
 git clone <YOUR SSH CLONE URL> # i.e. git@github.com:ucb-eecs251b/<semester>-chipyard-<username>.git
-cd chipyard
+cd <semester>-chipyard-<username>
 git remote add skeleton https://github.com/ucb-eecs251b/<semester>-chipyard.git
 git pull skeleton main
 mamba install -n base conda-lock=1.4
