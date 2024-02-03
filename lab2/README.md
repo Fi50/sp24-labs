@@ -57,7 +57,7 @@ git config --global protocol.file.allow always
 To enter your Chipyard environment, you will need to run the following command in each terminal session you open.
 
 ```
-source /scratch/$USER/chipyard/env.sh
+source /scratch/$USER/<semester>-chipyard-<username>/env.sh
 ```
 
 > [!TIP]
